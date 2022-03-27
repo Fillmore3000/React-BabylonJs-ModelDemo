@@ -3,6 +3,8 @@ Please Download files
 
 Demo at: https://www.henryapaw.com/test/build/
 
+Please update your pubilc Folder with you own Glft Models and update App.js
+
 yarn install
 
 yarn start
